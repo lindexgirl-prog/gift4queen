@@ -1,0 +1,9 @@
+node_modules/
+dist/
+coverage/
+work/
+outputs/
+.superpowers/
+*.local
+public/images/memory-009-school-*.jpg
+public/images/memory-010-childrens-day-*.jpg
