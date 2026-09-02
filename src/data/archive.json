@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "contentVersion": "release-2026-09-02-github-pages-1",
+  "contentVersion": "2026-09-02-user-corrections",
   "meta": {
     "title": "50 моментов, за которые я тебя люблю",
     "intro": [
@@ -179,21 +179,21 @@
     },
     {
       "id": "memory-006",
-      "number": 6,
-      "order": 6,
-      "chapterId": "chapter-1",
+      "number": 42,
+      "order": 1,
+      "chapterId": "chapter-6",
       "status": "ready",
-      "title": "Наш день в Москвариуме",
-      "subtitle": "Огромный осьминог и детский восторг",
-      "dateLabel": "Детство",
+      "title": "История продолжается",
+      "subtitle": "Новое поколение открывает мир рядом с тобой",
+      "dateLabel": "Новая глава",
       "location": "Москвариум, Москва",
-      "emotion": "удивление, интерес, доверие",
-      "text": "Перед Москвариумом всё казалось огромным — даже осьминог на фасаде. Мне нравится, как ты на этом кадре уверенно держишь меня рядом: с тобой любой новый мир хотелось исследовать без страха.",
+      "emotion": "забота, преемственность, новое поколение",
+      "text": "На этом кадре рядом с тобой уже не я, а новое поколение нашей семьи. И всё так же видно главное: твоя забота делает любое открытие спокойнее, интереснее и теплее. Так семейная история продолжается — с новыми детскими глазами и твоей неизменной любовью.",
       "coverImage": {
         "type": "image",
         "src": "/images/family-archive/memory-06.jpg",
-        "alt": "Мама и маленький сын стоят у Москвариума под большой фигурой осьминога",
-        "caption": "Наш день в Москвариуме"
+        "alt": "Мама и маленький ребёнок стоят у Москвариума под большой фигурой осьминога",
+        "caption": "Новое поколение у Москвариума"
       },
       "extraMedia": [],
       "voiceMessage": null,
@@ -204,8 +204,8 @@
     },
     {
       "id": "memory-007",
-      "number": 7,
-      "order": 7,
+      "number": 6,
+      "order": 6,
       "chapterId": "chapter-1",
       "status": "ready",
       "title": "Лето у воды",
@@ -228,8 +228,8 @@
     },
     {
       "id": "memory-008",
-      "number": 8,
-      "order": 8,
+      "number": 7,
+      "order": 7,
       "chapterId": "chapter-1",
       "status": "ready",
       "title": "Выше, к горам",
@@ -253,7 +253,7 @@
     },
     {
       "id": "memory-009",
-      "number": 9,
+      "number": 8,
       "order": 1,
       "chapterId": "chapter-2",
       "status": "ready",
@@ -277,7 +277,7 @@
     },
     {
       "id": "memory-010",
-      "number": 10,
+      "number": 9,
       "order": 2,
       "chapterId": "chapter-2",
       "status": "ready",
@@ -302,7 +302,7 @@
     },
     {
       "id": "memory-011",
-      "number": 11,
+      "number": 10,
       "order": 3,
       "chapterId": "chapter-2",
       "status": "ready",
@@ -327,7 +327,7 @@
     },
     {
       "id": "memory-012",
-      "number": 12,
+      "number": 11,
       "order": 4,
       "chapterId": "chapter-2",
       "status": "ready",
@@ -352,7 +352,7 @@
     },
     {
       "id": "memory-013",
-      "number": 13,
+      "number": 12,
       "order": 5,
       "chapterId": "chapter-2",
       "status": "ready",
@@ -378,7 +378,7 @@
     },
     {
       "id": "memory-014",
-      "number": 14,
+      "number": 13,
       "order": 6,
       "chapterId": "chapter-2",
       "status": "ready",
@@ -404,7 +404,7 @@
     },
     {
       "id": "memory-015",
-      "number": 15,
+      "number": 14,
       "order": 7,
       "chapterId": "chapter-2",
       "status": "ready",
@@ -430,7 +430,7 @@
     },
     {
       "id": "memory-016",
-      "number": 16,
+      "number": 15,
       "order": 8,
       "chapterId": "chapter-2",
       "status": "ready",
@@ -454,21 +454,19 @@
     },
     {
       "id": "memory-017",
-      "number": 17,
+      "number": 16,
       "order": 1,
       "chapterId": "chapter-3",
       "status": "ready",
-      "title": "Твоя элегантность в важный день",
-      "subtitle": "Когда особенный образ говорит без слов",
-      "year": "2019",
-      "dateLabel": "23 марта 2019",
-      "emotion": "радость, торжество, любовь",
-      "text": "В тот торжественный день ты была особенно элегантной: аккуратная причёска, красивое платье и внимательный взгляд. Мне хочется, чтобы ты чаще видела себя такой, какой видят тебя близкие — яркой, женственной и уверенной.",
+      "title": "Рядом с тобой",
+      "subtitle": "Один из наших тёплых совместных кадров",
+      "emotion": "нежность, близость, детство",
+      "text": "Мам, на этом снимке я совсем ещё ребёнок, а рядом — твой спокойный, внимательный взгляд. Мне нравится твоя светлая блузка с маленькими птицами и жемчужная нить: ты умеешь оставаться красивой и тёплой даже в самых обычных моментах.",
       "coverImage": {
         "type": "image",
-        "src": "/images/family-archive/memory-17.jpg",
-        "alt": "Мама и близкий мужчина фотографируются на свадебном торжестве",
-        "caption": "Семейное торжество"
+        "src": "/images/family-archive/memory-17.png",
+        "alt": "Мама и сын фотографируются вместе в салоне автомобиля",
+        "caption": "Один из наших совместных кадров"
       },
       "extraMedia": [],
       "voiceMessage": null,
@@ -479,7 +477,7 @@
     },
     {
       "id": "memory-018",
-      "number": 18,
+      "number": 17,
       "order": 2,
       "chapterId": "chapter-3",
       "status": "ready",
@@ -504,7 +502,7 @@
     },
     {
       "id": "memory-019",
-      "number": 19,
+      "number": 18,
       "order": 3,
       "chapterId": "chapter-3",
       "status": "ready",
@@ -529,7 +527,7 @@
     },
     {
       "id": "memory-020",
-      "number": 20,
+      "number": 19,
       "order": 4,
       "chapterId": "chapter-3",
       "status": "ready",
@@ -555,7 +553,7 @@
     },
     {
       "id": "memory-021",
-      "number": 21,
+      "number": 20,
       "order": 5,
       "chapterId": "chapter-3",
       "status": "ready",
@@ -581,7 +579,7 @@
     },
     {
       "id": "memory-022",
-      "number": 22,
+      "number": 21,
       "order": 6,
       "chapterId": "chapter-3",
       "status": "ready",
@@ -607,7 +605,7 @@
     },
     {
       "id": "memory-023",
-      "number": 23,
+      "number": 22,
       "order": 7,
       "chapterId": "chapter-3",
       "status": "ready",
@@ -632,21 +630,21 @@
     },
     {
       "id": "memory-024",
-      "number": 24,
+      "number": 23,
       "order": 8,
       "chapterId": "chapter-3",
       "status": "ready",
-      "title": "Праздник в твоих руках",
-      "subtitle": "Торт, цветы и летний свет",
+      "title": "Праздничный коктейль",
+      "subtitle": "Яркие краски, цветы и летний свет",
       "year": "2019",
       "dateLabel": "22 июля 2019",
       "emotion": "праздник, нежность, радость",
-      "text": "Этот яркий торт словно специально подобрали к тебе: столько цвета, характера и жизни. Мне особенно нравятся твои ясные глаза и лёгкая причёска — в них чувствуется настроение настоящего праздника.",
+      "text": "Этот яркий коктейль словно специально подобрали к тебе: столько цвета, характера и жизни. Мне особенно нравятся твои ясные глаза и лёгкая причёска — рядом с тобой любой летний день становится настоящим праздником.",
       "coverImage": {
         "type": "image",
         "src": "/images/family-archive/memory-24.jpg",
-        "alt": "Мама улыбается рядом с праздничным тортом на фоне фонтанов",
-        "caption": "Летний праздник в парке"
+        "alt": "Мама улыбается с праздничным коктейлем на фоне фонтанов",
+        "caption": "Летний день с ярким коктейлем"
       },
       "extraMedia": [],
       "voiceMessage": null,
@@ -657,7 +655,7 @@
     },
     {
       "id": "memory-025",
-      "number": 25,
+      "number": 24,
       "order": 1,
       "chapterId": "chapter-4",
       "status": "ready",
@@ -683,7 +681,7 @@
     },
     {
       "id": "memory-026",
-      "number": 26,
+      "number": 25,
       "order": 2,
       "chapterId": "chapter-4",
       "status": "ready",
@@ -709,7 +707,7 @@
     },
     {
       "id": "memory-027",
-      "number": 27,
+      "number": 26,
       "order": 3,
       "chapterId": "chapter-4",
       "status": "ready",
@@ -735,7 +733,7 @@
     },
     {
       "id": "memory-028",
-      "number": 28,
+      "number": 27,
       "order": 4,
       "chapterId": "chapter-4",
       "status": "ready",
@@ -761,7 +759,7 @@
     },
     {
       "id": "memory-029",
-      "number": 29,
+      "number": 28,
       "order": 5,
       "chapterId": "chapter-4",
       "status": "ready",
@@ -787,7 +785,7 @@
     },
     {
       "id": "memory-030",
-      "number": 30,
+      "number": 29,
       "order": 6,
       "chapterId": "chapter-4",
       "status": "ready",
@@ -813,7 +811,7 @@
     },
     {
       "id": "memory-031",
-      "number": 31,
+      "number": 30,
       "order": 7,
       "chapterId": "chapter-4",
       "status": "ready",
@@ -839,7 +837,7 @@
     },
     {
       "id": "memory-032",
-      "number": 32,
+      "number": 31,
       "order": 8,
       "chapterId": "chapter-4",
       "status": "ready",
@@ -865,7 +863,7 @@
     },
     {
       "id": "memory-033",
-      "number": 33,
+      "number": 32,
       "order": 1,
       "chapterId": "chapter-5",
       "status": "ready",
@@ -891,7 +889,7 @@
     },
     {
       "id": "memory-034",
-      "number": 34,
+      "number": 33,
       "order": 2,
       "chapterId": "chapter-5",
       "status": "ready",
@@ -917,20 +915,20 @@
     },
     {
       "id": "memory-035",
-      "number": 35,
+      "number": 34,
       "order": 3,
       "chapterId": "chapter-5",
       "status": "ready",
-      "title": "Зимний семейный портрет",
-      "subtitle": "Близкие лица, которые согревают",
+      "title": "Твоя зимняя улыбка",
+      "subtitle": "Тепло, которое заметно даже среди снега",
       "dateLabel": "Недавние годы · зима",
-      "emotion": "улыбка, близость, зима",
-      "text": "В нашей семейной истории дороги не только события, но и лица близких. На фоне снега особенно заметны светлые глаза и спокойный, уверенный образ.",
+      "emotion": "улыбка, лёгкость, зима",
+      "text": "На этом кадре только ты — молодая, лёгкая и по-настоящему счастливая. Твоя улыбка здесь особенно красивая: открытая, живая и такая тёплая, что даже зимний день рядом с ней кажется светлее.",
       "coverImage": {
         "type": "image",
         "src": "/images/family-archive/memory-35.jpg",
-        "alt": "Молодая девушка улыбается во время зимней прогулки",
-        "caption": "Семейный зимний портрет"
+        "alt": "Мама улыбается во время зимней прогулки",
+        "caption": "Твоя улыбка в зимний день"
       },
       "extraMedia": [],
       "voiceMessage": null,
@@ -941,7 +939,7 @@
     },
     {
       "id": "memory-036",
-      "number": 36,
+      "number": 35,
       "order": 4,
       "chapterId": "chapter-5",
       "status": "ready",
@@ -965,7 +963,7 @@
     },
     {
       "id": "memory-037",
-      "number": 37,
+      "number": 36,
       "order": 5,
       "chapterId": "chapter-5",
       "status": "ready",
@@ -989,7 +987,7 @@
     },
     {
       "id": "memory-038",
-      "number": 38,
+      "number": 37,
       "order": 6,
       "chapterId": "chapter-5",
       "status": "ready",
@@ -1013,7 +1011,7 @@
     },
     {
       "id": "memory-039",
-      "number": 39,
+      "number": 38,
       "order": 7,
       "chapterId": "chapter-5",
       "status": "ready",
@@ -1037,7 +1035,7 @@
     },
     {
       "id": "memory-040",
-      "number": 40,
+      "number": 39,
       "order": 8,
       "chapterId": "chapter-5",
       "status": "ready",
@@ -1062,7 +1060,7 @@
     },
     {
       "id": "memory-041",
-      "number": 41,
+      "number": 40,
       "order": 9,
       "chapterId": "chapter-5",
       "status": "ready",
@@ -1087,21 +1085,21 @@
     },
     {
       "id": "memory-042",
-      "number": 42,
+      "number": 41,
       "order": 10,
       "chapterId": "chapter-5",
       "status": "ready",
-      "title": "Вдвоём в Петергофе",
-      "subtitle": "Дворцы, фонтаны и вы с папой",
+      "title": "Втроём в Петергофе",
+      "subtitle": "Дворцы, фонтаны и наша общая прогулка",
       "dateLabel": "Недавние годы · лето",
       "location": "Петергоф, Санкт-Петербург",
-      "emotion": "любовь, прогулка, спокойствие",
-      "text": "В Петергофе вы с папой выглядите особенно гармонично. Мне нравится твой лёгкий летний образ и то, как рядом с папой во взгляде появляется спокойная уверенность.",
+      "emotion": "близость, прогулка, спокойствие",
+      "text": "В Петергофе мы втроём выглядим особенно счастливыми. Мне нравится твой лёгкий летний образ и то спокойное тепло во взгляде, которое появляется, когда рядом самые близкие.",
       "coverImage": {
         "type": "image",
         "src": "/images/family-archive/memory-42.jpg",
-        "alt": "Мама и папа фотографируются вместе во время прогулки по Петергофу",
-        "caption": "Вдвоём в Петергофе"
+        "alt": "Трое близких фотографируются вместе во время прогулки по Петергофу",
+        "caption": "Втроём в Петергофе"
       },
       "extraMedia": [],
       "voiceMessage": null,
@@ -1113,7 +1111,7 @@
     {
       "id": "memory-043",
       "number": 43,
-      "order": 1,
+      "order": 2,
       "chapterId": "chapter-6",
       "status": "ready",
       "title": "Смеяться у фонтана",
@@ -1137,7 +1135,7 @@
     {
       "id": "memory-044",
       "number": 44,
-      "order": 2,
+      "order": 3,
       "chapterId": "chapter-6",
       "status": "ready",
       "title": "Красивый вечер в ресторане",
@@ -1162,7 +1160,7 @@
     {
       "id": "memory-045",
       "number": 45,
-      "order": 3,
+      "order": 4,
       "chapterId": "chapter-6",
       "status": "ready",
       "title": "В московском музее",
@@ -1187,7 +1185,7 @@
     {
       "id": "memory-046",
       "number": 46,
-      "order": 4,
+      "order": 5,
       "chapterId": "chapter-6",
       "status": "ready",
       "title": "Подарок для маленького героя",
@@ -1212,7 +1210,7 @@
     {
       "id": "memory-047",
       "number": 47,
-      "order": 5,
+      "order": 6,
       "chapterId": "chapter-6",
       "status": "ready",
       "title": "Тепло идёт дальше",
@@ -1237,7 +1235,7 @@
     {
       "id": "memory-048",
       "number": 48,
-      "order": 6,
+      "order": 7,
       "chapterId": "chapter-6",
       "status": "ready",
       "title": "Гордость одного большого дня",
@@ -1261,7 +1259,7 @@
     {
       "id": "memory-049",
       "number": 49,
-      "order": 7,
+      "order": 8,
       "chapterId": "chapter-6",
       "status": "ready",
       "title": "Наша семья растёт",
@@ -1285,7 +1283,7 @@
     {
       "id": "memory-050",
       "number": 50,
-      "order": 8,
+      "order": 9,
       "chapterId": "chapter-6",
       "status": "ready",
       "title": "Даже когда я стану взрослым",
@@ -1311,7 +1309,7 @@
     {
       "id": "memory-051",
       "number": 51,
-      "order": 9,
+      "order": 10,
       "chapterId": "chapter-6",
       "status": "ready",
       "title": "Продолжение следует...",
