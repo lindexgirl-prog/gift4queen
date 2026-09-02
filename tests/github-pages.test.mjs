@@ -3,7 +3,10 @@ import { mkdtemp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import { tmpdir } from 'node:os';
 import path from 'node:path';
 import test from 'node:test';
+import { fileURLToPath } from 'node:url';
 import { prepareGitHubPages } from '../scripts/prepare-github-pages-lib.mjs';
+
+const projectRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 
 async function withClientDirectory(run) {
   const root = await mkdtemp(path.join(tmpdir(), 'family-archive-pages-'));
@@ -35,3 +38,14 @@ test('prepareGitHubPages refuses a build without index.html', async () => {
     );
   });
 });
+
+test('published archive exposes an SVG favicon to browsers', async () => {
+  const html = await readFile(path.join(projectRoot, 'index.html'), 'utf8');
+  const favicon = await readFile(path.join(projectRoot, 'public', 'favicon.svg'), 'utf8').catch(() => null);
+
+  assert.match(html, /<link[^>]+rel="icon"[^>]+href="\/favicon\.svg"/);
+  assert.ok(favicon, 'public/favicon.svg must exist');
+  assert.match(favicon, /^<svg[\s>]/);
+});
+
+
